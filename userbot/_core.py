@@ -11,7 +11,7 @@ DELETE_TIMEOUT = 5
 
 
 
-thumb_image_path = "./Resources/PicsArt_12-07-03.35.32.jpg"
+thumb_image_path = "./Resources/IMG_20201212_090019_017.jpg"
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Marshmellow"
 
